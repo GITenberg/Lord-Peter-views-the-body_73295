@@ -1,0 +1,32 @@
+_repo: Lord-Peter-views-the-body_73295
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sayers, Dorothy L. (Dorothy Leigh)
+    aliases:
+    - Fleming, Dorothy Leigh Sayers
+    - Sayers, Dorothy Leigh
+    birthdate: 1893
+    deathdate: 1957
+    gutenberg_agent_id: '45867'
+    url: http://www.gutenberg.org/2009/agents/45867
+    wikipedia: https://en.wikipedia.org/wiki/Dorothy_L._Sayers
+description: ''
+gutenberg_issued: '2024-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73295'
+language: en
+pgterms:marc905: 20240117034843sayers
+pgterms:marc906: '1928'
+pgterms:marc907: GB
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aLondon :$bVictor Gollancz Limited, $c1928, pubdate 1949.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lord Peter views the body
+url: http://www.gutenberg.org/ebooks/73295
